@@ -20,7 +20,7 @@ rendered properly in your Markdown viewer.
 ### What is an agent?
 
 > [!TIP]
-> If you're new to `transformers.agents`, make sure to first read the main [agents documentation](./agents).
+> If you're new to `transformers.agents`, make sure to first read the main [agents documentation](./agents.md).
 
 In this page we're going to highlight several advanced uses of `transformers.agents`.
 
